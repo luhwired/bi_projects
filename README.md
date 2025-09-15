@@ -1,6 +1,9 @@
 # bi_projects
-repo with my PowerBI projects
+
+Tableau and PowerBI projects.
 
 ----
 
-[Adobe Color](color.adobe.com/pt/)
+**Resources:**
+
+- [Adobe Color](color.adobe.com/pt/)
